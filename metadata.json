@@ -1,0 +1,6 @@
+{
+  "name": "Mom AI",
+  "description": "Simple Marathi voice assistant for mothers with large one-touch voice controls, call confirmation, and spoken responses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
